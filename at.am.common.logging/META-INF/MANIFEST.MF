@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Logging
+Bundle-SymbolicName: at.am.common.logging
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Alois Muehleder
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: at.am.common.logging
+Require-Bundle: org.junit
